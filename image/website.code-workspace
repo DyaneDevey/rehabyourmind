@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../bootstrap-4.5.0-examples 2/carousel"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEBSITE"
+	}
+}
