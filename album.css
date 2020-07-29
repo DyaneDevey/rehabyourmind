@@ -374,6 +374,14 @@ body {
   line-height: 1.1;
 }
 
+.hero-title-rene {
+  font-size: 6rem;
+  font-weight: 600;
+  margin-top: 0.9em;
+  margin-bottom: 0;
+  line-height: 1.1;
+}
+
 .margin-hero-title{
   width: 68vw;
 }
@@ -486,7 +494,7 @@ body {
 
 .white{
   top: 100%;
-  left: 50%;
+  left: 72.3%;
 }
 
 /*ARROW1*/
