@@ -2352,6 +2352,7 @@ h6.referral {
   width: 20.65em;
 }
 
+
 .ton:hover {
   color: #DCA9E4;
   border-color: #DCA9E4;
@@ -2455,6 +2456,24 @@ h6.referral {
 .terti:active {
   color: rgb(199, 199, 199);
   border-color: rgb(199, 199, 199);
+}
+
+
+
+.number111 {
+  display: inline-block;
+  padding: 0.5em 1.2em;
+  box-sizing: border-box;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  text-align: center;
+  transition: all 0.15s;
+  border: 0.16em solid #e6dbebe0;
+  background-color: #e6dbebe0;
+  color: #ffffff;
+  width: 7.316em;
 }
 
 .number {
